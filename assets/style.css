@@ -34,3 +34,9 @@ a {
     text-decoration: none;
     
 }
+#img {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
