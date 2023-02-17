@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Pacifico&display=swap');
+
+header {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    line-height: 75px;
+    border: solid 1 px lightpink;
+}
+
+#logo {
+  font-family: 'Pacifico', cursive;
+  color: lightpink;
+  text-decoration: none;
+  text-decoration-line: none;
+  line-height: 40px;
+  font-size: 40px;
+}
+#navbar {
+    display: flex;
+    color: lightpink;
+    text-decoration: none;
+    font-size: 20px;
+}
+#navbar li {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
+a {
+    color: lightpink;
+    margin: 10px;
+    line-height: 75px;
+    text-decoration: none;
+    
+}
