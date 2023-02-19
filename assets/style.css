@@ -39,4 +39,24 @@ a {
     height: 100%;
     width: 100%;
     display: flex;
+    
+}
+#info-h2 {
+    display: flex;
+    color: lightpink;
+    justify-content: center;
+    justify-items: center;
+}
+#info-p {
+    display: flex;
+    color: lightpink;
+    margin: 30px;
+    padding: 20px;
+    font-size: 20px;
+}
+#info-h2 > #info-p > h2 {
+    color: lightpink;
+}
+#infodiv {
+    color: lightpink;
 }
