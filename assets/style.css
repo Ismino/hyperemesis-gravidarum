@@ -60,3 +60,17 @@ a {
 #infodiv {
     color: lightpink;
 }
+#choice-contain {
+    display: flex;
+    border: 1px solid lightpink;
+    margin: 5px;
+}
+#a-c {
+    background-color: lightpink;
+    color: antiquewhite;
+    padding: 0;
+}
+#choice-contain:hover {
+    box-shadow: 2px 3px lightpink;
+    cursor: pointer;
+}
